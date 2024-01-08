@@ -5,7 +5,7 @@ Note that audit logs are different from [application logs](https://github.com/lo
 
 I highly suggest the beginners start their log analysis journey from [Backtracking intrusions](https://pdos.csail.mit.edu/6.828/2010/readings/backtracking.pdf) as this study is the pioneer at this line of research. 
 
-- [Table of contents](#table-of-contents)
+- [Audit log Analysis](#audit-log-analysis)
 	- [Dataset](#dataset)
 	- [Survey](#survey)
 	- [Definition](#definition)
@@ -70,6 +70,7 @@ type=SYSCALL msg=audit(16/05/2019 16:18:30.752:49036555) : arch=x86_64 syscall=e
 - ProvTalk: Towards Interpretable Multi-level Provenance Analysis in Networking Functions Virtualization (NFV). Tabiban A., et al. NDSS'2022 [paper](https://www.ndss-symposium.org/wp-content/uploads/2022-103-paper.pdf)
 - Towards Efficient Auditing for Real-Time Systems. Bansal A., et al. ESORICS'2022 [paper](https://adambates.org/documents/Bansal_Esorics22.pdf)
 - SoK: History is a Vast Early Warning System: Auditing the Provenance of System Intrusions. Muhammad Adil Inam, et al. S&P'2023 [paper](https://oaklandsok.github.io/papers/inam2023.pdf)
+- KAIROS: Practical Intrusion Detection and Investigation using Whole-system Provenance. Zijun Cheng , et al. S&P'2024 [paper](https://csdl-downloads.ieeecomputer.org/proceedings/sp/2024/3130/00/313000a005.pdf?Expires=1704715427&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL3Byb2NlZWRpbmdzL3NwLzIwMjQvMzEzMC8wMC8zMTMwMDBhMDA1LnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcwNDcxNTQyN319fV19&Signature=DhQr3hHCXCw7ijmqIWiV7xVx-5mRAJkJmzJYVSssaOB2KrW3rPj25IDlRYfec3JDiRT607O98gLF9QOG9VdMsOjZyo5V34vr4uvQD7GfK~lsWwQ9godfbVhB16xCKqe~8aixogNMBbCLYJftqY-YeDfgBa8vlyfFfsXlNed9iouNTW~gJDRs0rVPh0EL9aBP7XHiUrv8vqtS7yKVTU0vXry0dUwvX6ob-nrh3lTuIsD0Hg2zfn6x2c37V73KyB0ZRqPVpYLV7XEMCn9xo3E5OKc72EvbDZ5kNXCYTjSk63qgIrfoqS2AHjfP~pukTuNV3Z~t0gND-t1zdKAmFNWn5Q__&Key-Pair-Id=K12PMWTCQBDMDT)
 
 ## SIEM
 #### Forensic Analysis
