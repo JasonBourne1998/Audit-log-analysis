@@ -69,6 +69,7 @@ type=SYSCALL msg=audit(16/05/2019 16:18:30.752:49036555) : arch=x86_64 syscall=e
 - ALASTOR: Reconstructing the Provenance of Serverless Intrusions. P. Datta., et al. Security'2022 [paper](https://adambates.org/documents/Datta_Sec22.pdf)
 - ProvTalk: Towards Interpretable Multi-level Provenance Analysis in Networking Functions Virtualization (NFV). Tabiban A., et al. NDSS'2022 [paper](https://www.ndss-symposium.org/wp-content/uploads/2022-103-paper.pdf)
 - Towards Efficient Auditing for Real-Time Systems. Bansal A., et al. ESORICS'2022 [paper](https://adambates.org/documents/Bansal_Esorics22.pdf)
+- SoK: History is a Vast Early Warning System: Auditing the Provenance of System Intrusions. Muhammad Adil Inam, et al. S&P'2023 [paper](https://oaklandsok.github.io/papers/inam2023.pdf)
 
 ## SIEM
 #### Forensic Analysis
